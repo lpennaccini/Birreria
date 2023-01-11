@@ -4,6 +4,8 @@ che vogliono creare un sito web accattivante per promuovere le loro bevande e at
 Il design è moderno e accattivante con una grande quantità di spazio per le immagini e il testo, 
 perfetto per mostrare le tue birre migliori e la tua atmosfera unica.
 
+DEMO: https://cintaweb.it/demo/birreria/
+
 ![cover-home-birreria](https://user-images.githubusercontent.com/94174353/211837225-6d8928ee-b632-49b9-94e6-223e03145ca3.jpg)
 
 Caratteristiche
